@@ -58,6 +58,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="19dp"
+        android:onClick="superKahramanYap"
         android:text="Super Kahraman Olustur"
         app:layout_constraintBottom_toTopOf="@+id/sonucText"
         app:layout_constraintEnd_toEndOf="parent"
